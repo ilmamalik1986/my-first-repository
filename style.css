@@ -72,7 +72,7 @@ footer{
     font-size: 20px;
    }
 }
-   @media(min-wisth: 1536px){
+   @media(min-width: 1536px){
     h1{
         font-size: 80px
     }
